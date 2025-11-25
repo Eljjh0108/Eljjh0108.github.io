@@ -1,7 +1,7 @@
 
-Eric Lee's Portfolio
+Eric Lee's portfolio
 
-I am a mechanical engineer major at CSUF and plan on graduating in 2028.
+I am a mechanical engineer at CSUF and I plan  on graduating in 2028.
 
 ## Favorite CPSC 120L Labs
 
